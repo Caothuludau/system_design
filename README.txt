@@ -1,0 +1,1 @@
+Project này sẽ chỉ rõ từng thành phần trong thiết kế hệ thống CNTT. Các câu hỏi được hỏi cho từng module cũng như các kiến thức cần chuẩn bị để trở thành một kỹ sư giỏi. Peace!
